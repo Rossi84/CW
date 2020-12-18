@@ -1,19 +1,8 @@
 document:
-  name: Titolo del documento
+  name: ConciliaWeb
   description: |
-    Lorem ipsum dolor sit amet, consectetur 
-    adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. 
-    Ut enim ad minim veniam, quis nostrud 
-    exercitation ullamco laboris nisi ut 
-    aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in 
-    voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint 
-    occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id 
-    est laborum.    
+    ConciliaWeb è la piattaforma dell'Autorità per le garanzie nelle comunicazioni, semplice e interattiva, per la risoluzione delle controversie tra utenti e operatori di telefonia, Internet e Pay Tv.
   tags:
-    - topic
-    - related topic
-    - amazing project
+    - ConciliaWeb
+    - Corecom
+    - Operatori
