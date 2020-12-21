@@ -9,6 +9,6 @@ Per poter accedere al sistema l'utente dovrà registrarsi.
   :hidden:
   :caption: Manuale cliente
 
-  introduzione/introduzione.rst
-  menu/menu.rst
+  manuale-cliente/introduzione.rst
+  manuale-cliente/menu.rst
   
