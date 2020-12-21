@@ -9,11 +9,6 @@ Per poter accedere al sistema l'utente dovrà registrarsi.
   :hidden:
   :caption: Manuale cliente
 
-  introduzione/registrazione.rst
-  introduzione/login.rst
-  introduzione/recupero-password.rst
-  introduzione/logout.rst
-  introduzione/profilo.rst
-  introduzione/notifiche.rst
-  introduzione/lingua.rst
-  introduzione/profilo-aziendale.rst
+  introduzione/introduzione.rst
+  menu/introduzione.rst
+  
