@@ -9,3 +9,4 @@ Questo capitolo descrive le funzionalità presenti sul menù per il cliente.
 
   menu/home-page.rst
   menu/ug.rst
+  menu/gu14.rst

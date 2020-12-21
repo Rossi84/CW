@@ -8,4 +8,4 @@ Oltre ai pulsanti sono presenti le seguenti 3 liste:
 - Procedimenti (provvedimenti temporanei ) in corso
 - Procedimenti in delega in corso
 
-Per maggiori dettagli vedasi le sezioni relative.
+Per maggiori dettagli verdere le sezioni relative.

@@ -1,13 +1,13 @@
-Inserimento istanza di conciliazione (Modello UG)
-=================================================
+Inserimento istanza di procedimento di definizione (Modello GU14)
+=================================================================
 
-Dalla propria pagina principale è possibile, selezionando la tipologia di utenza, aprire il modulo per la compilazione del formulario di conciliazione.
+Dalla propria pagina principale è possibile, selezionando la tipologia di utenza, aprire il modulo per la compilazione dell’istanza di definizione delle controversie.
 
-.. figure:: /media/nuova_conciliazione.png
-   :name: nuova-conciliazione
-   :alt: Nuova conciliazione
+.. figure:: /media/nuova_definizione.png
+   :name: nuova-definizione
+   :alt: Nuova definizione
 
-   Nuova conciliazione
+   Nuova definizione
    
 Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante è tenuto a compilare.
 
@@ -46,15 +46,3 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 		- copia della comunicazione: file pdf della comunicazione del reclamo.
 		- pulsante "Elimina": per rimuovere il reclamo inserito.
 	- Selezione per dichiarare che **on si sono già esperite altre conciliazioni* per i disservizi segnalati.
-		
-- Dati relativi alle **richieste**:
-	- *Descrizione richiesta*: campo testuale, da utilizzare per richieste diverse da quelle relative a pretese economiche.
-	- *Valore in euro del rimborso, dell'indennizzo e/o storno globale richiesto*.
-	- *Modalità per eventuali rimborsi o indennizzi*: obbligatorio se specificato il valore in euro.
-	- *IBAN*: se scelto IBAN come modalità di rimborso.
-
-- *Allegati*: lì'stante può inserire della documentazione a corredo del formulario. I file da caricare possono essere in formato pdf, jpg, png, mp3 e wav. I file non possono essere di dimensione superiore a 10Mb ciascuno.
-
-- *Firma*: compilati tutti i campi l'istanza, dovrà essere firmata tramite la generazione di un codice "OTP" che sarà inviato al proprio indirizzo email o dispositivo mobile se specificato. Per ricevere il codice fare click su "Genera OTP".
-		
-Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema invierà una notifica a tutti gli interessati e al cliente stesso di avvenuto inserimento.	
