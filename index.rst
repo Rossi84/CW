@@ -1,7 +1,5 @@
-####################
 Introduzione
-####################
-
+++++++++++++
 
 In questa sezione sono presenti i manuali relativi alle varie figure che operano in ConciliaWeb 
 
@@ -9,6 +7,6 @@ In questa sezione sono presenti i manuali relativi alle varie figure che operano
     :maxdepth: 3
     :hidden:
 
-    manuale-cliente.rst
-    manuale-conciliatore.rst
+    manuale-cliente/manuale-cliente.rst
+    manuale-conciliatore/manuale-conciliatore.rst
     
