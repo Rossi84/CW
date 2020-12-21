@@ -45,7 +45,7 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 		- codice identificativo reclamo: se disponibile oppure
 		- copia della comunicazione: file pdf della comunicazione del reclamo.
 		- pulsante "Elimina": per rimuovere il reclamo inserito.
-	- Selezione per dichiarare che **on si sono già esperite altre conciliazioni* per i disservizi segnalati.
+	- Selezione per dichiarare che *non si sono già esperite altre conciliazioni* per i disservizi segnalati.
 		
 - Dati relativi alle **richieste**:
 	- *Descrizione richiesta*: campo testuale, da utilizzare per richieste diverse da quelle relative a pretese economiche.
