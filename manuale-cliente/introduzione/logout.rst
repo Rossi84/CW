@@ -1,4 +1,10 @@
 Logout
-==========
+======
 
-xxx
+Per effettuare il logout cliccare in alto a destra sul proprio nome e poi sul pulsante "Esci".
+
+.. figure:: /media/logout.png
+   :name: logout
+   :alt: Logout
+
+   Logout
