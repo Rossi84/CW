@@ -10,5 +10,5 @@ Per poter accedere al sistema l'utente dovrà registrarsi.
   :caption: Manuale cliente
 
   introduzione/introduzione.rst
-  menu/introduzione.rst
+  menu/menu.rst
   

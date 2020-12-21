@@ -5,7 +5,6 @@ Questo capitolo descrive le funzionalità base messe a disposizione per il clien
 
 .. toctree::
   :maxdepth: 3
-  :hidden:
   :caption: Introduzione
 
   introduzione/registrazione.rst
