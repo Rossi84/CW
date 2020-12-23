@@ -58,7 +58,7 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 	- *Modalità per eventuali rimborsi o indennizzi*: obbligatorio se specificato il valore in euro.
 	- *IBAN*: se scelto IBAN come modalità di rimborso.
 
-- *Allegati*: lì'stante può inserire della documentazione a corredo del formulario. I file da caricare possono essere in formato pdf, jpg, png, mp3 e wav. I file non possono essere di dimensione superiore a 10Mb ciascuno.
+- *Allegati*: l'istante può inserire della documentazione a corredo del formulario. I file da caricare possono essere in formato pdf, jpg, png, mp3 e wav. I file non possono essere di dimensione superiore a 10Mb ciascuno.
 
 - *Firma*: compilati tutti i campi l'istanza, dovrà essere firmata tramite la generazione di un codice "OTP" che sarà inviato al proprio indirizzo email o dispositivo mobile se specificato. Per ricevere il codice fare click su "Genera OTP".
 		

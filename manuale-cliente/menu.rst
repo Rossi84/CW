@@ -11,3 +11,5 @@ Questo capitolo descrive le funzionalità presenti sul menù per il cliente.
   menu/home-page.rst
   menu/ug.rst
   menu/gu14.rst
+  menu/gu5.rst
+  menu/lista_procedimenti.rst

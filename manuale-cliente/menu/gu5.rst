@@ -1,17 +1,15 @@
-Inserimento istanza di conciliazione (Modello UG)
-=================================================
+Inserimento istanza di provvedimento temporaneo (modello GU5)
+=============================================================
 
-Dalla propria pagina principale è possibile, selezionando la tipologia di utenza, aprire il modulo per la compilazione del formulario di conciliazione.
+Dalla propria pagina principale è possibile selezionando la tipologia di utenza, aprire il modulo per la compilazione del formulario di richiesta di un provvedimento temporaneo (modello GU5).
 
-.. figure:: /media/nuova_conciliazione.png
-   :name: nuova-conciliazione
-   :alt: Nuova conciliazione
+.. figure:: /media/nuovo_provvedimento.png
+   :name: nuovo-provvedimento
+   :alt: Nuovo provvedimento
 
-   Nuova conciliazione
-   
 Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante è tenuto a compilare.
 
-- Dati relativi alle **parti:**
+- Dati relativi alle **parti**:
 	- *Istatnza presentata da*: selezionare l'intestatario dell'utenza per la quale si intende presentare istanza, che sia una persona fisica o un'azienda.
 	- *Recapito telefonico*: anche se non obbligatorio, si consiglia di inserire il recapito telefonico se diverso da quanto inserito nel proprio profilo. Tale dato è usato da operatori e/o conciliatori durante la gestione della controversia per eventuali comunicazioni.
 	
@@ -19,7 +17,7 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
    :name: altro-recapito
    :alt: Recapito istante
 	
-- Dati relativi alla **controversia**:
+- Dati relativi al **disservizio**:
 	- *Tipo di contratto*: privato o affari
 	- *Disservizio riscontrato*: possono essere inseriti più disservizi anche più di uno dello stesso tipo se il disservizio riguarda più di un numero di utenza. Per inserire un disservizio fare click su "CLICCA QUI PER SELEZIONARE I DESSERVIZI". I disservizi presentati dipendono dal tipo di servizio selezionato.
 		Per ogni disservizio dovranno essere associate le relative informazioni:
@@ -38,23 +36,13 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 	- *Operatore controparte*: selezionare uno tra gli operatori, con possibilità di auto-completamento (specificando l'inizio del nome della società il sistema suggerisce i nomi da selezionare). Gli operatori specificati potranno essere più di uno quando il disservizio riguarda "ritardo nella portabilità del numero" o "ritardo nel passaggio tra operatori". Campo obbligatorio. Se l'operatore controparte non figura tra quelli disponibili va segnalato immediatamente tramite il servizio di Assistenza.
 	- *Informazioni aggiuntive*: campo non obbligatorio, da compilare se si vogliono aggiungere dettagli su quanto si vuole conciliare.
 
-- Dati relativi ai **precedenti**:
-	- *Precedenti reclami presentati all'operatore*: per ogni reclamo i seguenti dati
-		- data presentazione.
-		- modalità di presentazione: posta, fax, ecc.
-		- codice identificativo reclamo: se disponibile oppure
-		- copia della comunicazione: file pdf della comunicazione del reclamo.
-		- pulsante "Elimina": per rimuovere il reclamo inserito.
-	- Selezione per dichiarare che *non si sono già esperite altre conciliazioni* per i disservizi segnalati.
-		
-- Dati relativi alle **richieste**:
-	- *Descrizione richiesta*: campo testuale, da utilizzare per richieste diverse da quelle relative a pretese economiche.
-	- *Valore in euro del rimborso, dell'indennizzo e/o storno globale richiesto*.
-	- *Modalità per eventuali rimborsi o indennizzi*: obbligatorio se specificato il valore in euro.
-	- *IBAN*: se scelto IBAN come modalità di rimborso.
+- Dati relativi alla **procedura pendente**: questa sezione sarà compilata automaticamente se la procedura è pendente nel sistema e l'inserimento del provvedimento avviene tramite l'apposito pulsante presente nel dettaglio del procedimento pendente. Altrimenti sarà richiesta la compilazione dei seguenti campi:
+	- *Data presentazione istanza*
+	- *Organismo*
+	- *Identificativo istanza*
 
 - *Allegati*: l'istante può inserire della documentazione a corredo del formulario. I file da caricare possono essere in formato pdf, jpg, png, mp3 e wav. I file non possono essere di dimensione superiore a 10Mb ciascuno.
 
 - *Firma*: compilati tutti i campi l'istanza, dovrà essere firmata tramite la generazione di un codice "OTP" che sarà inviato al proprio indirizzo email o dispositivo mobile se specificato. Per ricevere il codice fare click su "Genera OTP".
 		
-Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema invierà una notifica a tutti gli interessati e al cliente stesso di avvenuto inserimento.	
+Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema invierà una notifica a tutti gli interessati e al cliente stesso di avvenuto inserimento.
