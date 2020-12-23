@@ -63,3 +63,11 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 - *Firma*: compilati tutti i campi l'istanza, dovrà essere firmata tramite la generazione di un codice "OTP" che sarà inviato al proprio indirizzo email o dispositivo mobile se specificato. Per ricevere il codice fare click su "Genera OTP".
 		
 Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema invierà una notifica a tutti gli interessati e al cliente stesso di avvenuto inserimento.
+
+.. toctree::
+  :maxdepth: 3
+  :hidden:
+  :caption: Istanza di definizione
+
+  gu14/fascicolo_documentale.rst
+  
