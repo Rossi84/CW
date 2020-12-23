@@ -17,3 +17,5 @@ Questo capitolo descrive le funzionalità base messe a disposizione per il clien
   introduzione/lingua.rst
   introduzione/profilo-aziendale.rst
   introduzione/assistenza.rst
+  introduzione/home-page.rst
+  
