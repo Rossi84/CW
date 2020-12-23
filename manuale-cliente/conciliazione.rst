@@ -17,11 +17,11 @@ In fondo alla pagina è sempre presente la barra delle azioni nella quale sono p
   :hidden:
   :caption: Istanza di conciliazione
 
-  conciliazione/fascicolo_documentale.rst
-  conciliazione/negoziazione.rst
-  conciliazione/rinuncia.rst
-  conciliazione/integrazione.rst
-  conciliazione/provvedimento.rst
-  conciliazione/udienza.rst
-  conciliazione/firma.rst
+  ug/fascicolo_documentale.rst
+  ug/negoziazione.rst
+  ug/rinuncia.rst
+  ug/integrazione.rst
+  ug/provvedimento.rst
+  ug/udienza.rst
+  ug/firma.rst
   

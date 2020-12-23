@@ -6,6 +6,7 @@ Per poter accedere al sistema l'utente dovrà registrarsi.
 
 .. toctree::
   :maxdepth: 3
+  :numbered:
   :hidden:
   :caption: Manuale cliente
 
