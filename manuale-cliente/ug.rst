@@ -15,6 +15,7 @@ In fondo alla pagina è sempre presente la barra delle azioni nella quale sono p
 Dalla propria pagina principale è possibile, selezionando la tipologia di utenza, aprire il modulo per la compilazione del formulario di conciliazione.
 
 .. figure:: /media/nuova_conciliazione.png
+   :align: center
    :name: nuova-conciliazione
    :alt: Nuova conciliazione
 
@@ -27,6 +28,7 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 	- *Recapito telefonico*: anche se non obbligatorio, si consiglia di inserire il recapito telefonico se diverso da quanto inserito nel proprio profilo. Tale dato è usato da operatori e/o conciliatori durante la gestione della controversia per eventuali comunicazioni.
 	
 .. figure:: /media/altro_recapito.png
+   :align: center
    :name: altro-recapito
    :alt: Recapito istante
    
@@ -43,6 +45,7 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 		- con il tasto "Elimina" si può eliminare uno dei disservizi selezionati.
 		
 .. figure:: /media/disservizio.png
+   :align: center
    :name: disservizio
    :alt: Disservizio
    

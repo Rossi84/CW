@@ -4,6 +4,7 @@ Inserimento istanza di provvedimento temporaneo (modello GU5)
 L'istanza per l'emissione del provvedimento temporaneo, nel caso in cui sia in corso in ConciliaWeb la relativa conciliazione o definizione, andra presentata tramite l'apposito pulsante presente nella barra delle azioni della conciliazione o definizione in corso.
 
 .. figure:: /media/barra_azioni_provvedimento.png
+   :align: center
    :name: barra-azioni-provvedimento
    :alt: Provvedimento barra azioni
    
@@ -12,6 +13,7 @@ L'istanza per l'emissione del provvedimento temporaneo, nel caso in cui sia in c
 Nel caso in cui la conciliazione non sia in corso in ConciliaWeb, dalla propria pagina principale è possibile selezionando la tipologia di utenza, aprire il modulo per la compilazione del formulario di richiesta di un provvedimento temporaneo (modello GU5).
 
 .. figure:: /media/nuovo_provvedimento.png
+   :align: center
    :name: nuovo-provvedimento
    :alt: Nuovo provvedimento
    
@@ -24,6 +26,7 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 	- *Recapito telefonico*: anche se non obbligatorio, si consiglia di inserire il recapito telefonico se diverso da quanto inserito nel proprio profilo. Tale dato è usato da operatori e/o conciliatori durante la gestione della controversia per eventuali comunicazioni.
 	
 .. figure:: /media/altro_recapito.png
+   :align: center
    :name: altro-recapito
    :alt: Recapito istante
    
@@ -40,6 +43,7 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 		- con il tasto "Elimina" si può eliminare uno dei disservizi selezionati.
 		
 .. figure:: /media/disservizio.png
+   :align: center
    :name: disservizio
    :alt: Disservizio
    

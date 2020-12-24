@@ -5,6 +5,7 @@ Per visualizzare e modificare le informazioni del proprio profilo cliccare in al
 
 .. figure:: /media/profilo.png
    :align: center
+   :align: center
    :name: profilo
    :alt: Profilo
 

@@ -5,6 +5,7 @@ L'istanza di definizione, nel caso in cui sia presente in ConciliaWeb la concili
 L'apertura dell'istanza di definizione è possibile entro i 3 mesi dalla conclusione della procedura di conciliazione. 
 
 .. figure:: /media/nuova_definizione_padre.png
+   :align: center
    :name: nuova-definizione-padre
    :alt: Nuova definizione a partire dalla conciliazione
 
@@ -13,6 +14,7 @@ L'apertura dell'istanza di definizione è possibile entro i 3 mesi dalla conclus
 Nel caso in cui la conciliazione non sia stata esperita tramite ConciliaWeb, dalla propria pagina principale è possibile, selezionando la tipologia di utenza, aprire il modulo per la compilazione dell'istanza di definizione delle controversie.
 
 .. figure:: /media/nuova_definizione.png
+   :align: center
    :name: nuova-definizione
    :alt: Nuova definizione
 
@@ -25,6 +27,7 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 	- *Recapito telefonico*: anche se non obbligatorio, si consiglia di inserire il recapito telefonico se diverso da quanto inserito nel proprio profilo. Tale dato è usato da operatori e/o conciliatori durante la gestione della controversia per eventuali comunicazioni.
 	
 .. figure:: /media/altro_recapito.png
+   :align: center
    :name: altro-recapito
    :alt: Recapito istante
    
@@ -41,8 +44,11 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 		- con il tasto "Elimina" si può eliminare uno dei disservizi selezionati.
 		
 .. figure:: /media/disservizio.png
+   :align: center
    :name: disservizio
    :alt: Disservizio
+   
+   Disservizio
    
 	- *Codice cliente o numero del contratto*: obbligatorio quando il disservizio riguarda la Pay-Tv oppure la fornitura di più linee telefoniche fisse in diverse regioni o di più numeri di utenze mobili o di diverso tipo (mobile e fisso), o quando non sono stati specificati i numeri di utenza ma solo il numero di linee interessate dal disservizio.
 	- *Domicilio del contratto*: regione/provincia indicata dall'utente come domicilio contrattuale. In caso di utente fisso va indicato il luogo ove si trova l'utenza. Se non viene specificato sarà considerata la residenza dell'utente.

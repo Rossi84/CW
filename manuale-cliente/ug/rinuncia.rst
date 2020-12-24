@@ -4,6 +4,7 @@ Rinuncia alla conciliazione
 L'istante può rinunciare alla conciliazione tramite l'apposito pulsante:
 
 .. figure:: /media/barra_azioni_rinuncia.png
+   :align: center
    :name: barra-azioni-rinuncia
    :alt: Rinuncia barra azioni
    
@@ -12,6 +13,7 @@ L'istante può rinunciare alla conciliazione tramite l'apposito pulsante:
 Per confermare la rinuncia l'istante dovrà inserire la motivazione e il codice OTP ricevuto per email o sms.
 
 .. figure:: /media/rinuncia_istante.png
+   :align: center
    :name: rinuncia-istante
    :alt: Rinuncia istante
 

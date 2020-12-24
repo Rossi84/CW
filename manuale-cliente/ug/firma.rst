@@ -5,12 +5,14 @@ Una volta arrivati a conclusione del procedimento, l'istante dovrà firmare il v
 Se vi è un verbale da firmare sarà presente la seguente icona sulla barra delle azioni:
 
 .. figure:: /media/barra_azioni_firmaistante.png
+   :align: center
    :name: barra-azioni-firmaistante
    :alt: Firma verbale barra azioni
    
    Azioni - Firma verbale
    
 .. figure:: /media/firma_istante.png
+   :align: center
    :name: firmaistante
    :alt: Firma verbale
    

@@ -5,6 +5,7 @@ Per le istanze di definizione in corso è possibile inserire l'istanza di richie
 Selezionando l'apposito pulsate si verrà riportati all'inserimento dell'istanza di provvedimento temporaneo nella quale si troveranno già compilati alcuni campi:
 
 .. figure:: /media/barra_azioni_provvedimento.png
+   :align: center
    :name: barra-azioni-provvedimento
    :alt: Provvedimento barra azioni
    

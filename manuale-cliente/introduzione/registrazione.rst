@@ -5,6 +5,7 @@ Per effettuare la registrazione l'utente troverà l'apposito link "Registrati co
 Per potresi registrare a ConciliaWeb è necessario essere in possesso di un account SPID intestato a persona fisica.
 
 .. figure:: /media/link_registrati.png
+   :align: center
    :name: link-registrati
    :alt: Link registrazione
 

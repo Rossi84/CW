@@ -7,6 +7,7 @@ Tale azione è possibile se il procedimento è in fase di negoziazione diretta, 
 Per procedere all'integrazione premere la seguente icona:
 
  .. figure:: /media/barra_azioni_integrazione.png
+   :align: center
    :name: barra-azioni-integrazione
    :alt: Integrazione barra azioni
    
@@ -15,6 +16,7 @@ Per procedere all'integrazione premere la seguente icona:
 Fare le integrazioni necessarie:
 
  .. figure:: /media/integrazione.png
+   :align: center
    :name: integrazione
    :alt: Integrazione
    
