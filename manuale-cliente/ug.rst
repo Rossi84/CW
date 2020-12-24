@@ -29,6 +29,8 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 .. figure:: /media/altro_recapito.png
    :name: altro-recapito
    :alt: Recapito istante
+   
+   Recapito istante
 	
 - Dati relativi alla **controversia**:
 	- *Tipo di contratto*: privato o affari
@@ -43,6 +45,8 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 .. figure:: /media/disservizio.png
    :name: disservizio
    :alt: Disservizio
+   
+   Disservizio
    
 	- *Codice cliente o numero del contratto*: obbligatorio quando il disservizio riguarda la Pay-Tv oppure la fornitura di più linee telefoniche fisse in diverse regioni o di più numeri di utenze mobili o di diverso tipo (mobile e fisso), o quando non sono stati specificati i numeri di utenza ma solo il numero di linee interessate dal disservizio.
 	- *Domicilio del contratto*: regione/provincia indicata dall'utente come domicilio contrattuale. In caso di utente fisso va indicato il luogo ove si trova l'utenza. Se non viene specificato sarà considerata la residenza dell'utente.

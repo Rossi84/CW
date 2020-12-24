@@ -1,11 +1,21 @@
 Inserimento istanza di provvedimento temporaneo (modello GU5)
 =============================================================
 
-Dalla propria pagina principale è possibile selezionando la tipologia di utenza, aprire il modulo per la compilazione del formulario di richiesta di un provvedimento temporaneo (modello GU5).
+L'istanza per l'emissione del provvedimento temporaneo, nel caso in cui sia in corso in ConciliaWeb la relativa conciliazione o definizione, andra presentata tramite l'apposito pulsante presente nella barra delle azioni della conciliazione o definizione in corso.
+
+.. figure:: /media/barra_azioni_provvedimento.png
+   :name: barra-azioni-provvedimento
+   :alt: Provvedimento barra azioni
+   
+   Azioni - Provvedimento temporaneo
+
+Nel caso in cui la conciliazione non sia in corso in ConciliaWeb, dalla propria pagina principale è possibile selezionando la tipologia di utenza, aprire il modulo per la compilazione del formulario di richiesta di un provvedimento temporaneo (modello GU5).
 
 .. figure:: /media/nuovo_provvedimento.png
    :name: nuovo-provvedimento
    :alt: Nuovo provvedimento
+   
+   Nuovo provvedimento
 
 Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante è tenuto a compilare.
 
@@ -16,6 +26,8 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 .. figure:: /media/altro_recapito.png
    :name: altro-recapito
    :alt: Recapito istante
+   
+   Recapito istante
 	
 - Dati relativi al **disservizio**:
 	- *Tipo di contratto*: privato o affari
@@ -30,6 +42,8 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 .. figure:: /media/disservizio.png
    :name: disservizio
    :alt: Disservizio
+   
+   Disservizio
    
 	- *Codice cliente o numero del contratto*: obbligatorio quando il disservizio riguarda la Pay-Tv oppure la fornitura di più linee telefoniche fisse in diverse regioni o di più numeri di utenze mobili o di diverso tipo (mobile e fisso), o quando non sono stati specificati i numeri di utenza ma solo il numero di linee interessate dal disservizio.
 	- *Domicilio del contratto*: regione/provincia indicata dall'utente come domicilio contrattuale. In caso di utente fisso va indicato il luogo ove si trova l'utenza. Se non viene specificato sarà considerata la residenza dell'utente.
@@ -46,3 +60,14 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 - *Firma*: compilati tutti i campi l'istanza, dovrà essere firmata tramite la generazione di un codice "OTP" che sarà inviato al proprio indirizzo email o dispositivo mobile se specificato. Per ricevere il codice fare click su "Genera OTP".
 		
 Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema invierà una notifica a tutti gli interessati e al cliente stesso di avvenuto inserimento.
+
+.. toctree::
+  :maxdepth: 3
+  :hidden:
+  :caption: Provvedimento temporaneo
+
+  gu5/fascicolo_documentale.rst
+  gu5/rinuncia.rst
+  gu5/risposta_richistruttoria.rst
+  gu5/segnmanc_ottemperanza.rst
+ 

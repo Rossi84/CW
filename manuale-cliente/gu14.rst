@@ -1,7 +1,16 @@
-Inserimento istanza di procedimento di definizione (Modello GU14)
+Inserimento istanza di definizione (Modello GU14)
 =================================================================
 
-Dalla propria pagina principale è possibile, selezionando la tipologia di utenza, aprire il modulo per la compilazione dell’istanza di definizione delle controversie.
+L'istanza di definizione, nel caso in cui sia presente in ConciliaWeb la conciliazione relativa, dovrà essere inserita andando sulla lista dei procedimenti "I miei procedimenti (conciliazioni/definizioni)", e cliccando sull'apposito pulsante presente nella colonna "Azioni" relativa alla conciliazione conclusa con mancato accordo.
+L'apertura dell'istanza di definizione è possibile entro i 3 mesi dalla conclusione della procedura di conciliazione. 
+
+.. figure:: /media/nuova_definizione_padre.png
+   :name: nuova-definizione-padre
+   :alt: Nuova definizione a partire dalla conciliazione
+
+   Nuova definizione
+
+Nel caso in cui la conciliazione non sia stata esperita tramite ConciliaWeb, dalla propria pagina principale è possibile, selezionando la tipologia di utenza, aprire il modulo per la compilazione dell'istanza di definizione delle controversie.
 
 .. figure:: /media/nuova_definizione.png
    :name: nuova-definizione
@@ -9,7 +18,7 @@ Dalla propria pagina principale è possibile, selezionando la tipologia di utenz
 
    Nuova definizione
    
-Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante è tenuto a compilare.
+Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante è tenuto a compilare. Nel caso in cui l'avvio sia scaturito dalla conciliazione presente in ConciliaWeb parte dei dei dati saranno già presenti.
 
 - Dati relativi alle **parti**:
 	- *Istatnza presentata da*: selezionare l'intestatario dell'utenza per la quale si intende presentare istanza, che sia una persona fisica o un'azienda.
@@ -18,6 +27,8 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 .. figure:: /media/altro_recapito.png
    :name: altro-recapito
    :alt: Recapito istante
+   
+   Recapito istante
 	
 - Dati relativi alla **controversia**:
 	- *Tipo di contratto*: privato o affari
@@ -70,4 +81,8 @@ Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema
   :caption: Istanza di definizione
 
   gu14/fascicolo_documentale.rst
-  
+  gu14/rinuncia.rst
+  gu14/provvedimento.rst
+  gu14/memoriecontrodeduzioni.rst
+  gu14/risposta_richistruttoria.rst
+  gu14/udienza.rst
