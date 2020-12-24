@@ -10,3 +10,5 @@ Questo capitolo descrive le funzionalità presenti sul menù per il cliente.
 
   menu/lista_procedimenti.rst
   menu/lista_provvedimenti.rst
+  menu/lista_delegato.rst
+  menu/lista_delegante.rst
