@@ -70,8 +70,8 @@ Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema
   :hidden:
   :caption: Provvedimento temporaneo
 
-  gu5/fascicolo_documentale.rst
+  gu5/fascicolo-documentale.rst
   gu5/rinuncia.rst
-  gu5/risposta_richistruttoria.rst
-  gu5/segnmanc_ottemperanza.rst
+  gu5/risposta-richistruttoria.rst
+  gu5/segnmanc-ottemperanza.rst
  

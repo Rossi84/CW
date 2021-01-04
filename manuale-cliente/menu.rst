@@ -8,7 +8,7 @@ Questo capitolo descrive le funzionalità presenti sul menù per il cliente.
   :hidden:
   :caption: Menù
 
-  menu/lista_procedimenti.rst
-  menu/lista_provvedimenti.rst
-  menu/lista_delegato.rst
-  menu/lista_delegante.rst
+  menu/lista-procedimenti.rst
+  menu/lista-provvedimenti.rst
+  menu/lista-delegato.rst
+  menu/lista-delegante.rst

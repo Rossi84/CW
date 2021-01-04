@@ -82,7 +82,7 @@ Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema
   :hidden:
   :caption: Istanza di conciliazione
 
-  ug/fascicolo_documentale.rst
+  ug/fascicolo-documentale.rst
   ug/negoziazione.rst
   ug/rinuncia.rst
   ug/integrazione.rst

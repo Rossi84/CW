@@ -1,5 +1,5 @@
 Inserimento istanza di definizione (Modello GU14)
-=================================================================
+=================================================
 
 L'istanza di definizione, nel caso in cui sia presente in ConciliaWeb la conciliazione relativa, dovrà essere inserita andando sulla lista dei procedimenti "I miei procedimenti (conciliazioni/definizioni)", e cliccando sull'apposito pulsante presente nella colonna "Azioni" relativa alla conciliazione conclusa con mancato accordo.
 L'apertura dell'istanza di definizione è possibile entro i 3 mesi dalla conclusione della procedura di conciliazione. 
@@ -86,9 +86,9 @@ Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema
   :hidden:
   :caption: Istanza di definizione
 
-  gu14/fascicolo_documentale.rst
+  gu14/fascicolo-documentale.rst
   gu14/rinuncia.rst
   gu14/provvedimento.rst
   gu14/memoriecontrodeduzioni.rst
-  gu14/risposta_richistruttoria.rst
+  gu14/risposta-richistruttoria.rst
   gu14/udienza.rst

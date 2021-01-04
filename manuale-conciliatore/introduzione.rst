@@ -1,7 +1,7 @@
 Introduzione
 ============
 
-Questo capitolo descrive le funzionalità base messe a disposizione per i conciliatori e responsabili di procedimento di Corecom e Agcom.
+Questo capitolo descrive le funzionalità base messe a disposizione per il personale di Corecom e Agcom.
 
 I ruoli a disposizione per le figure di Corecom ed Agcom sono:
 - **Guest**: visualizza tutti i procedimenti del soggetto di appartenenza, che sia un Corecom o Agcom, senza poter compiere alcuna operazione.

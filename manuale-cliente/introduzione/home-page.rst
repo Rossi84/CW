@@ -19,4 +19,4 @@ Per maggiori dettagli verdere le sezioni relative.
   menu/ug.rst
   menu/gu14.rst
   menu/gu5.rst
-  menu/lista_procedimenti.rst
+  menu/lista-procedimenti.rst

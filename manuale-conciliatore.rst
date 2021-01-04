@@ -12,3 +12,6 @@ Per poter accedere al sistema l'utente dovrà essere inserito da chi di dovere.
 
   manuale-conciliatore/introduzione.rst
   manuale-conciliatore/menu.rst
+  manuale-conciliatore/ug.rst
+  manuale-conciliatore/gu14.rst
+  manuale-conciliatore/gu5.rst
