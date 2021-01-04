@@ -25,6 +25,7 @@ Inserimento documento o testo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dal fascicolo documentale, il cliente può inserire un nuovo documento o informazioni (testo) utili al procedimento tramite l'apposita tab di inserimento ("Inserimento elemento"). L'azione è possibile se siamo in negoziazione diretta, conciliazione semplificata, in attesa udienza o in udienza.
+
 L'istante dovrà specificare il tipo di documento che sta caricando, un titolo e il relativo testo o file allegato. Il formato del file può essere solo pdf, jpeg, png, mp3 o wav. La dimensione massima del file è di 10Mb.
 
 .. figure:: /media/fascicolo_documentale_documento.png
