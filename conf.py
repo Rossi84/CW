@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "CW"
+settings_project_name = "ConciliaWeb"
 settings_copyright_copyleft = "AGCOM"
 settings_editor_name = "Agcom - Autorita per le garanzie nelle comunicazioni"
 settings_doc_version = '1'
@@ -85,8 +85,7 @@ if on_rtd:
         ],
         # The translations available for this project
         'translations': {
-            'it': 'ITA',
-            'en': 'ENG'
+            'it': 'ITA'
         }
     }
 

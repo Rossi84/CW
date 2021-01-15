@@ -7,6 +7,5 @@ In questa sezione sono presenti i manuali relativi alle varie figure che operano
     :maxdepth: 3
     :hidden:
 
-    manuale-cliente.rst
-    manuale-conciliatore.rst
+    rilasci/rilasci.rst
     
