@@ -21,14 +21,14 @@
 
 	- *Cliente*: `manualistica </docs/manuale-cliente/it/latest/manuale-cliente/ug/negoziazione.html>`_
 	- *Operatore*: `manualistica </docs/manuale-operatore/it/latest/manuale-operatore/ug/negoziazione.html>`_
-	- *Struttura accreditata*: `manualistica </docs/manuale-struttura-accreditata/it/latest/manuale-struttura-accreditata/ug/negoziazione.html>`
+	- *Struttura accreditata*: `manualistica </docs/manuale-struttura-accreditata/it/latest/manuale-struttura-accreditata/ug/negoziazione.html>`_
 
 - **Conciliazione semplificata**: nuove modalità per la conciliazione semplificata.
 
 	- *Cliente*: `manualistica </docs/manuale-cliente/it/latest/manuale-cliente/ug/negoziazione.html>`_
 	- *Conciliatore*: `manualistica </docs/manuale-conciliatore/it/latest/manuale-conciliatore/ug/negoziazione.html>`_
 	- *Operatore*: `manualistica </docs/manuale-operatore/it/latest/manuale-operatore/ug/negoziazione.html>`_
-	- *Struttura accreditata*: `manualistica </docs/manuale-struttura-accreditata/it/latest/manuale-struttura-accreditata/ug/negoziazione.html>`
+	- *Struttura accreditata*: `manualistica </docs/manuale-struttura-accreditata/it/latest/manuale-struttura-accreditata/ug/negoziazione.html>`_
 
 - **Microsoft Teams**: nuovo strumento per lo svolgimento delle udienze in virtual room.
 - **ConciliaDocs**: `nuova manualistica </docs/manuale-cliente/it/latest/>`_
