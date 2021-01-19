@@ -1,11 +1,12 @@
 Introduzione
 ++++++++++++
 
-In questa sezione sono presenti i manuali relativi alle varie figure che operano in ConciliaWeb 
+In questa sezione sono descritti i rilasci fatti di ConciliaWeb. 
 
 .. toctree::
     :maxdepth: 3
     :hidden:
 
-    rilasci/rilasci.rst
+	2021/rilasci.rst
+    2020/rilasci.rst
     
