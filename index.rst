@@ -8,5 +8,4 @@ In questa sezione sono descritti i rilasci fatti di ConciliaWeb.
     :hidden:
 
 	2021/rilasci.rst
-    2020/rilasci.rst
     
