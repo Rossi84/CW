@@ -4,7 +4,7 @@ Release notes
 Funzionalità versione v2.0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Disponibili dal*: 01/02/2021
+*Disponibili dal*: 01/03/2021
 
 - **Modalità di accesso e registrazione**: per i clienti la registrazione averrà solo tramite SPID o CIE. Accedendo con codice fiscale e password si potrà solamente concludere i procedimenti gia avviati. `Registrazione cliente </docs/manuale-cliente/it/latest/manuale-cliente/introduzione/registrazione.html>`_, `accesso cliente </docs/manuale-cliente/it/latest/manuale-cliente/introduzione/login.html>`_, `accesso conciliatore </docs/manuale-conciliatore/it/latest/manuale-conciliatore/introduzione/login.html>`_, `accesso operatore </docs/manuale-conciliatore/it/latest/manuale-conciliatore/introduzione/login.html>`_, `registrazione addetti struttura accreditata </docs/manuale-struttura-accreditata/it/latest/manuale-struttura-accreditata/introduzione/registrazione.html>`_ e `accesso </docs/manuale-struttura-accreditata/it/latest/manuale-struttura-accreditata/introduzione/login.html>`_.
 - **Strutture accreditate**: le associazioni dei consumatori potranno richiedere all'Autorità l'accreditamento, gli avvocati potranno profilarsi in autonomia. `Manualistica </docs/manuale-struttura-accreditata/it/latest>`_

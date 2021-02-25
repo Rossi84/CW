@@ -9,4 +9,5 @@ In questa sezione sono descritti i rilasci fatti di ConciliaWeb.
   :caption: Rilasci
 
   release-notes/rilasci.rst
+  cookies-policy/cookies-policy.rst
     
