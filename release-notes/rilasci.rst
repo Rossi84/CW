@@ -6,7 +6,7 @@ Funzionalità versione v2.0
 
 *Disponibili dal*: 01/03/2021
 
-- **•	Login con CIE e SPID in ottemperanza al decreto semplificazioni**: per i clienti la registrazione averrà solo tramite SPID o CIE. Per i procedimenti in corso, gli utenti potranno continuare a utilizzare come credenziali di accesso CODICE FISCALE e PASSWORD fino alla conclusione delle procedure e, comunque, non oltre il 30 settembre 2021. 
+- ** Login con CIE e SPID in ottemperanza al decreto semplificazioni**: per i clienti la registrazione averrà solo tramite SPID o CIE. Per i procedimenti in corso, gli utenti potranno continuare a utilizzare come credenziali di accesso CODICE FISCALE e PASSWORD fino alla conclusione delle procedure e, comunque, non oltre il 30 settembre 2021. 
 `Registrazione cliente </docs/manuale-cliente/it/latest/manuale-cliente/introduzione/registrazione.html>`_, 
 `Accesso cliente </docs/manuale-cliente/it/latest/manuale-cliente/introduzione/login.html>`_, 
 `Accesso conciliatore </docs/manuale-conciliatore/it/latest/manuale-conciliatore/introduzione/login.html>`_, 
@@ -25,7 +25,6 @@ Funzionalità versione v2.0
 - **Conciliazione semplificata**: nuove modalità per la conciliazione semplificata. `Manualistica cliente </docs/manuale-cliente/it/latest/manuale-cliente/ug/negoziazione.html>`_, `manualistica conciliatore </docs/manuale-conciliatore/it/latest/manuale-conciliatore/ug/negoziazione.html>`_, `manualistica operatore </docs/manuale-operatore/it/latest/manuale-operatore/ug/negoziazione.html>`_, `manualistica struttura accreditata </docs/manuale-struttura-accreditata/it/latest/manuale-struttura-accreditata/ug/negoziazione.html>`_
 - **Integrazione CNF**: integrazione con il Consiglio Nazionale Forense.
 - **Visibilità ricorsiva dei fascicoli**: Visibilità ricorsiva dei fascicoli procedimentali.
-</docs/manuale-struttura-accreditata/it/latest/manuale-struttura-accreditata/ug/negoziazione.html>`_
 - **Annullamento verbali**: Richiesta di annullamento verbali solo per i direttori Corecom.
 - **Elenco Conciliatori**: Costruzione elenco dinamico dei conciliatori.
 - **Trasferimento procedimenti**: Trasferimento procedimenti tra Corecom / Agcom.
