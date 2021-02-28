@@ -6,7 +6,7 @@ Funzionalità versione v2.0
 
 *Disponibili dal*: 01/03/2021
 
-- ** Login con CIE e SPID in ottemperanza al decreto semplificazioni**: per i clienti la registrazione averrà solo tramite SPID o CIE. Per i procedimenti in corso, gli utenti potranno continuare a utilizzare come credenziali di accesso CODICE FISCALE e PASSWORD fino alla conclusione delle procedure e, comunque, non oltre il 30 settembre 2021. 
+- **Login con CIE e SPID in ottemperanza al decreto semplificazioni**: per i clienti la registrazione averrà solo tramite SPID o CIE. Per i procedimenti in corso, gli utenti potranno continuare a utilizzare come credenziali di accesso CODICE FISCALE e PASSWORD fino alla conclusione delle procedure e, comunque, non oltre il 30 settembre 2021. 
 `Registrazione cliente </docs/manuale-cliente/it/latest/manuale-cliente/introduzione/registrazione.html>`_, 
 `Accesso cliente </docs/manuale-cliente/it/latest/manuale-cliente/introduzione/login.html>`_, 
 `Accesso conciliatore </docs/manuale-conciliatore/it/latest/manuale-conciliatore/introduzione/login.html>`_, 
@@ -14,7 +14,7 @@ Funzionalità versione v2.0
 `Registrazione mebri struttura accreditata </docs/manuale-struttura-accreditata/it/latest/manuale-struttura-accreditata/introduzione/registrazione.html>`_ e 
 `accesso </docs/manuale-struttura-accreditata/it/latest/manuale-struttura-accreditata/introduzione/login.html>`_.
 
-- ** Gestione soggetti accreditati**: le associazioni dei consumatori potranno richiedere all'Autorità l'accreditamento, gli avvocati potranno registrarsi in autonomia. 
+- **Gestione soggetti accreditati**: le associazioni dei consumatori potranno richiedere all'Autorità l'accreditamento, gli avvocati potranno registrarsi in autonomia. 
 `Manualistica </docs/manuale-struttura-accreditata/it/latest>`_
 
 - **Deleghe persona fisica e mandati soggetti accreditati**: è possibile delegare una persona fisica per la gestione del procedimento oppure un soggetto accreditato. 
