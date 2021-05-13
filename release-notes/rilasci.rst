@@ -1,7 +1,7 @@
 Release notes
 =============
 
-Funzionalità versione v2.0
+Funzionalità versione v2.1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Disponibili dal*: 13/05/2021
