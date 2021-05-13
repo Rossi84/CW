@@ -4,6 +4,20 @@ Release notes
 Funzionalità versione v2.0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+*Disponibili dal*: 13/05/2021
+
+- **Calendario**: per i Corecom è stato rimosso il vincolo di numero massimo tavoli paralleli per slot e il massimo di numero tavoli definibili per settimana. Ogni Corecom potrà definire i tavoli senza vincoli. Potrà essere fatta la clonazione dei tavoli della settimana anche in presenza di udienze convocate.
+- **Dominio di firma Aruba**: per le utenze Corecom sarà possibili indicare il dominio di firma del kit di firma Aruba posseduto.
+- **Creazione profilo cliente**: per le utenze professionali sarà possibile creare il profilo cliente successivamente a quello professionale.
+- **Gestione utenti**: per le strutture accreditate sarà possibile gestire le utenze per la modifica dei dati e l'aggiunta delle aziende correlate.
+- **Matrice di compatibilità ruoli**: abilitazione di prifili con il medesimo ruolo per più soggetti/segreterie.
+- **Ricerca procedimenti/provvedimenti**: riorganizzazione grafica dei filtri.
+- **Deleghe e mandati**: variazione regole per il conferimento di deleghe e mandati per procedimenti e provvedimenti.
+
+
+Funzionalità versione v2.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 *Disponibili dal*: 01/03/2021
 
 - **Login con CIE e SPID in ottemperanza al decreto semplificazioni**: per i clienti la registrazione averrà solo tramite SPID o CIE. Per i procedimenti in corso, gli utenti potranno continuare a utilizzare come credenziali di accesso CODICE FISCALE e PASSWORD fino alla conclusione delle procedure e, comunque, non oltre il 30 settembre 2021. 
