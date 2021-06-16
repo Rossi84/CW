@@ -10,7 +10,7 @@ Funzionalità versione v2.1
 - **Dominio di firma Aruba**: per le utenze Corecom sarà possibili indicare il dominio di firma del kit di firma Aruba posseduto.
 - **Creazione profilo cliente**: per le utenze professionali sarà possibile creare il profilo cliente successivamente a quello professionale.
 - **Gestione utenti**: per le strutture accreditate sarà possibile gestire le utenze per la modifica dei dati e l'aggiunta delle aziende correlate.
-- **Matrice di compatibilità ruoli**: abilitazione di prifili con il medesimo ruolo per più soggetti/segreterie.
+- **Matrice di compatibilità ruoli**: abilitazione di profili con il medesimo ruolo per più soggetti/segreterie.
 - **Ricerca procedimenti/provvedimenti**: riorganizzazione grafica dei filtri.
 - **Deleghe e mandati**: variazione regole per il conferimento di deleghe e mandati per procedimenti e provvedimenti.
 
