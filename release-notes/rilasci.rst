@@ -1,6 +1,16 @@
 Release notes
 =============
 
+Funzionalità versione v2.2
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Disponibili dal*: 01/09/2021
+
+- **Eliminazione documenti**: per l'utente che lo ha caricato, fino ai due giorni successivi alla conclusione del procedimento, sarà possibile rimuovere dal fascicolo documentale un documento caricato.
+- **Annullamento verbali**: per l'utente del Corecom che lo ha redatto, sarà possibile annullare un verbale emesso anche in presenza di firme nei due giorni successivi alla stesura.
+- **Conciliazione semplificata**: possibilità al Corecom di conclusione del procedimento con mancato accordo quando le parti non si pronunciano entro i tempi previsti.
+- **Ricerca aziende**: per le strutture accreditate sarà possibile, nella sezione di gestione delle utente, ricercare direttamente l'azienda per ragione sociale.
+
 Funzionalità versione v2.1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
