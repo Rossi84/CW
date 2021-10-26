@@ -1,6 +1,14 @@
 Release notes
 =============
 
+Funzionalità versione v2.2.1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Disponibili dal*: 25/10/2021
+
+- **Eliminazione profilo**: nuova funzionalità per l'eliminazione del profilo cliente.
+- **Accesso con eIDAS**: possibilità di registrarsi e accedere con eIDAS.
+
 Funzionalità versione v2.2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
