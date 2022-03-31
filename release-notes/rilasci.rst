@@ -1,7 +1,17 @@
 Release notes
 =============
 
-Funzionalità versione v2.2.1
+Funzionalità versione v2.4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Disponibili dal*: 01/04/2022
+
+- **Commercialisti ed Esperti Contabili**: procedura di accreditamento e gestione della struttura.
+- **Associazioni regionali**: procedura di accreditamento e gestione della struttura.
+- **Enti esponenziali**: procedura di accreditamento e gestione della struttura.
+- **Matrice di compatibilità ruoli**: abilitazione di profili con il medesimo ruolo per più soggetti/segreterie.
+
+Funzionalità versione v2.3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Disponibili dal*: 25/10/2021
