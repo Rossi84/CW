@@ -1,8 +1,22 @@
 Release notes
 =============
 
+Funzionalità versione v3.1
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Disponibili dal*: 01/02/2023
+
+- **Servizi media audiovisivi**: introduzione delle istanze di conciliazione e definizione per le controversie con fornitori di servizi audiovisivi.
+
+Funzionalità versione v3.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Disponibili dal*: 16/11/2022
+
+- **Veste grafica**: nuova veste grafica della piattaforma.
+
 Funzionalità versione v2.4
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Disponibili dal*: 01/04/2022
 
@@ -12,7 +26,7 @@ Funzionalità versione v2.4
 - **Matrice di compatibilità ruoli**: abilitazione di profili con il medesimo ruolo per più soggetti/segreterie.
 
 Funzionalità versione v2.3
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Disponibili dal*: 25/10/2021
 
