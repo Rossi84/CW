@@ -1,6 +1,18 @@
 Release notes
 =============
 
+Funzionalità versione v3.2
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Disponibili dal*: 28/06/2023
+
+- **Video sharing platform**: introduzione delle istanze di conciliazione per le controversie con fornitori di video sharing.
+- **Promemoria udienza**: invio mail di promemoria udienza alle parti coinvolte.
+- **Performance Corecom**: nuova sezione per Corecom e Agcom contenente indicatori di performance.
+- **Annullamento azioni**: per le utenze del Corecom e Agcom possibilità di annullare azioni e documenti.
+- **Convocazione udienza multipla**: per le utenze di Corecom e Agcom possibilità di convocare l'udienza simultaneamente su più istanze.
+- **Segretario master sostituto**: possibilità di definire segretari master sostituti.
+
 Funzionalità versione v3.1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -39,7 +51,7 @@ Funzionalità versione v2.2
 *Disponibili dal*: 01/09/2021
 
 - **Eliminazione documenti**: per l'utente che lo ha caricato, fino ai due giorni successivi alla conclusione del procedimento, sarà possibile rimuovere dal fascicolo documentale un documento caricato.
-- **Annullamento verbali**: per l'utente del Corecom che lo ha redatto, sarà possibile annullare un verbale emesso anche in presenza di firme nei cinque giorni successivi alla stesura.
+- **Annullamento verbali**: per l'utente del Corecom che lo ha redatto, sarà possibile annullare un verbale emesso anche in presenza di firme.
 - **Conciliazione semplificata**: possibilità al Corecom di conclusione del procedimento con mancato accordo quando le parti non si pronunciano entro i tempi previsti.
 - **Ricerca aziende**: per le strutture accreditate sarà possibile, nella sezione di gestione delle utente, ricercare direttamente l'azienda per ragione sociale.
 
