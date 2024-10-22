@@ -7,7 +7,7 @@ Funzionalità versione v3.3
 *Disponibili dal*: 21/10/2024
 
 - **Spostamento colonna azioni per ruoli Agcom e Corecom**: per gli utenti con ruolo Direttore AgCom/Corecom, Segretario AgCom/Corecom e Responsabile AgCom/Corecom, è stata spostata la colonna delle azioni per la lista dei procedimenti come prima colonna a sinistra.
-- **Menù a tendina con risposte predefinite per azioni con le parti**: per gli utenti con ruolo Direttore AgCom/Corecom, Segretario AgCom/Corecom e Responsabile AgCom/Corecom è stata introdotta la possibilità di selezionare risposte standard per la compilazioni dei messaggi, nelle sezioni del fascicolo documentale e della comunicazione con le parti.
+- **Menù a tendina con risposte predefinite per azioni con le parti**: per gli utenti con ruolo Direttore AgCom/Corecom, Segretario AgCom/Corecom e Responsabile AgCom/Corecom è stata introdotta la possibilità di selezionare risposte standard per la compilazione dei messaggi, nella sezione del fascicolo documentale e in quella della comunicazione con le parti.
 - **Introduzione codifica base58 per generazione codice OTP**
 
 Funzionalità versione v3.2
