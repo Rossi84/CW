@@ -1,6 +1,16 @@
 Release notes
 =============
 
+Funzionalità versione v3.4
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Disponibili dal*: 10/04/2025
+
+- **Verifica ottemperanza manuale GU5**: per il responsabile del provvedimento funzionalità per contrassegnare il provvedimento ottemperato o meno.
+- **Storicizzazione deleghe**: mantenimento dei dati di delega per le istanze.
+- **Flusso procura a persona fisica**: variazione del flusso per l'attribuzione di procura a persona fisica.
+- **Elenco firme**: per il ruolo Assistenza possibilità di vedere firme effettuate e da effettuare per il documento.
+
 Funzionalità versione v3.3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
